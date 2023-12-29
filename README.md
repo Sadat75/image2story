@@ -1,6 +1,5 @@
 ## Story Teller
-Introduction
-Story Teller is a web-based application that transforms uploaded images into captivating stories. Utilizing advanced AI models, the application generates a short story based on the content of the image and converts the text into speech. This project combines image-to-text, text generation, and text-to-speech technologies to create an interactive and engaging user experience.
+A web-based application that transforms uploaded images into captivating stories. Utilizing advanced AI models, the application generates a short story based on the content of the image and converts the text into speech. This project combines image-to-text, text generation, and text-to-speech technologies to create an interactive and engaging user experience.
 
 ## Features
 Image Upload: Users can upload an image to the application.
